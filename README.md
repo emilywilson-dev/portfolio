@@ -5,7 +5,7 @@ Welcome! Here are a few email templates i've built to demonstrate responsive des
 ## Templates
 
 ### 1. Easter Promo Email
-- Features: Responsive, dark mode, VML buttons
+- Features: Responsive, dark mode, VML buttons, GIF, accordian style menu
 - [View Live Demo](https://emilywilson-dev.github.io/easter-promo-email/)
 - [View Repo](https://github.com/emilywilson-dev/easter-promo-email.git)
 
