@@ -4,10 +4,17 @@ Welcome! Here are a few email templates i've built to demonstrate responsive des
 
 ## Templates
 
-### 1. Fall Collection Email
+### 1. Easter Promo Email
+- Features: Responsive, dark mode, VML buttons
+- [View Live Demo](https://emilywilson-dev.github.io/easter-promo-email/)
+- [View Repo](https://github.com/emilywilson-dev/easter-promo-email.git)
+
+### 2. Fall Collection Email
 - Features: Responsive, dark mode, VML buttons
 - [View Live Demo](https://emilywilson-dev.github.io/fall-collection-email/)
 - [View Repo](https://github.com/emilywilson-dev/fall-collection-email.git)
+
+
 
 ## Fixes / Code Improvements
 
