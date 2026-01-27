@@ -21,6 +21,8 @@ Welcome! Here are a few email templates i've built to demonstrate responsive des
 
 
 
-## Fixes / Code Improvements
+## Fixes / Code Improvement Mock Task Tickets
 
-### 1. Task Ticket 1 
+### Task Tickets
+- [Task Ticket #1 — Welcome Email Update](./task-tickets/task1.md)
+- [Task Ticket #2 — Dark Mode Fixes](./task-tickets/task2.md)
