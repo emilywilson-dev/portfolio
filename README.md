@@ -14,9 +14,9 @@ Welcome! Here are a few email templates i've built to demonstrate responsive des
 - [View Live Demo](https://emilywilson-dev.github.io/skincare-newsletter-email/)
 - [View Repo](https://github.com/emilywilson-dev/skincare-newsletter-email.git)
 
-### 3. Fall Collection Email
+### 3. Fall Sale Email
 - Features: Responsive, dark mode, VML buttons
-- [View Live Demo](https://emilywilson-dev.github.io/fall-collection-email/)
+- [View Live Demo](https://emilywilson-dev.github.io/fall-sale-email/)
 - [View Repo](https://github.com/emilywilson-dev/fall-collection-email.git)
 
 
