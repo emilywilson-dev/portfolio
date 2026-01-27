@@ -45,9 +45,4 @@ Below are some of my email projects that showcase my skills.
 - **Languages & Markup:** HTML, CSS (inline), media queries  
 - **Email-specific Techniques:** Table-based layouts, VML for Outlook, interactive elements (accordion, GIFs)   
 
----
 
-## 📂 How to Use
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/emilywilson-dev/email-portfolio.git
