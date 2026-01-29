@@ -36,7 +36,7 @@ Below are some of my email projects that showcase my skills.
   - Used fallback fonts and buttons for unsupported clients  
   - Optimized media queries for multiple screen sizes  
 - **[View Live Demo](https://emilywilson-dev.github.io/fall-sale-email/)**  
-- **[View Code Repository](https://github.com/emilywilson-dev/fall-collection-email.git)**  
+- **[View Code Repository](https://github.com/emilywilson-dev/fall-sale-email.git)**  
 
 ---
 
