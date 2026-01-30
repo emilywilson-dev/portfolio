@@ -28,7 +28,7 @@ Below are some of my email projects that showcase my skills.
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 - **Languages & Markup:** HTML, CSS (inline), media queries  
 - **Email-specific Techniques:** Table-based layouts, VML for Outlook, interactive elements (accordion, GIFs)   
