@@ -7,7 +7,7 @@ Below are some of my email projects that showcase my skills.
 
 ##  Email Templates
 
-### 1. Easter Promo Email
+### 1. Productivity Email
 - **Features:** Fully responsive, dark mode support, VML buttons for Outlook, background image
 - **[View Live Demo](https://emilywilson-dev.github.io/productivity-email/)**  
 - **[View Code Repository](https://github.com/emilywilson-dev/productivity-email.git)**  
