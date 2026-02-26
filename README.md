@@ -28,12 +28,6 @@ Below are some of my email projects that showcase my skills.
 
 ---
 
-### 4. Fall Sale Email
-- **Features:** Responsive, dark mode, VML buttons for Outlook, optimized for desktop & mobile clients  
-- **[View Live Demo](https://emilywilson-dev.github.io/fall-sale-email/)**  
-- **[View Code Repository](https://github.com/emilywilson-dev/fall-sale-email.git)**  
-
----
 
 ## Skills & Tools
 
