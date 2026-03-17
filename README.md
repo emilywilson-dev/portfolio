@@ -10,28 +10,28 @@ Below are some of my email projects that showcase my skills.
 ### 1. Neural Flow Email
 - **Features:** Fully responsive, dark mode support, VML buttons for Outlook
 - **[View Live Demo](https://emilywilson-dev.github.io/productivity-email/)**  
-- **[View Code Repository](https://github.com/emilywilson-dev/neural-flow-email-template.git)** 
+- **[View Code Repository](https://github.com/emilywilson-dev/neural-flow-email-template.git)**
 
-### 1. Productivity Email
+---
+
+### 2. Skincare Welcome Newsletter
+- **Features:** Responsive design, dark mode, VML buttons, background images with cross-client compatibility  
+- **[View Live Demo](https://emilywilson-dev.github.io/skincare-newsletter-email/)**  
+- **[View Code Repository](https://github.com/emilywilson-dev/skincare-newsletter-email.git)**
+
+---
+
+### 3. Productivity Email
 - **Features:** Fully responsive, dark mode support, VML buttons for Outlook, background image
 - **[View Live Demo](https://emilywilson-dev.github.io/neural-flow-email-template/)**  
 - **[View Code Repository](https://github.com/emilywilson-dev/productivity-email.git)**  
 
 ---
 
-### 2. Easter Promo Email
+### 4. Easter Promo Email
 - **Features:** Fully responsive, dark mode support, VML buttons for Outlook, GIF animation, accordion-style menu  
 - **[View Live Demo](https://emilywilson-dev.github.io/easter-promo-email/)**  
 - **[View Code Repository](https://github.com/emilywilson-dev/easter-promo-email.git)**  
-
----
-
-### 3. Skincare Welcome Newsletter
-- **Features:** Responsive design, dark mode, VML buttons, background images with cross-client compatibility  
-- **[View Live Demo](https://emilywilson-dev.github.io/skincare-newsletter-email/)**  
-- **[View Code Repository](https://github.com/emilywilson-dev/skincare-newsletter-email.git)**  
-
----
 
 
 ## Skills & Tools
