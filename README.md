@@ -9,7 +9,7 @@ Below are some of my email projects that showcase my skills.
 
 ### 1. Neural Flow Email
 - **Features:** Fully responsive, dark mode support, VML buttons for Outlook
-- **[View Live Demo](https://emilywilson-dev.github.io/productivity-email/)**  
+- **[View Live Demo](https://emilywilson-dev.github.io/neural-flow-email-template/)**  
 - **[View Code Repository](https://github.com/emilywilson-dev/neural-flow-email-template.git)**
 
 ---
